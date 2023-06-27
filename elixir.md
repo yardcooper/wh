@@ -1,0 +1,3 @@
+• Developed and deployed a mission-critical Elixir application that handled thousands of requests per minute with high concurrency and low latency.
+• Designed and implemented a highly scalable Elixir-based microservice architecture, which improved the performance and reliability of a complex system.
+• Contributed to the development of an Elixir-based chat application, which involved designing and implementing real-time messaging features, ensuring high availability, and improving the user experience.

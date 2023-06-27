@@ -5,24 +5,26 @@ Plattsburgh, NY 12901
 talktorichard39@gmail.com
 
 PROFESSIONAL SUMMARY
- With 10 years of experience in web development and project management, I possess extensive knowledge and expertise as a highly skilled Full Stack Engineer. My background includes seven years of hands-on experience supporting, automating, and optimizing deployments in AWS, utilizing configuration management, CI, CD, and DevOps processes to ensure efficient and effective cloud infrastructure management. As an active participant in the open-source community, I am committed to exploring new technologies and innovative solutions for complex software problems, constantly seeking to expand my knowledge and skills.
+With 10 years of experience in web development and project management, I possess extensive knowledge and expertise as a highly skilled Full Stack Engineer. My background includes seven years of hands-on experience supporting, automating, and optimizing deployments in AWS, utilizing configuration management, CI, CD, and DevOps processes to ensure efficient and effective cloud infrastructure management. As an active participant in the open-source community, I am committed to exploring new technologies and innovative solutions for complex software problems, constantly seeking to expand my knowledge and skills.
 
 CORE COMPETENCIES
-Programming languages	
+Programming languages
 Agile software development
-Code structure & architecture	
+Code structure & architecture
 Test driven development
-Web performance optimization	
+Web performance optimization
 Source control
-Front-end & back-end web development	
+Front-end & back-end web development
 High productivity
-Database optimization	
+Database optimization
 Infrastructure implementation
 
 PROFESSIONAL EXPERIENCE
 Boxed, Inc., New York, NY 10013
 Tech Lead – Full Stack | 04, 2022 - 04, 2023
+
 - Led and contributed to development of the e-commerce platform leveraging Nodejs's event-driven, non-blocking feature.
+- Improved system reliability customizing web services using Rust and Rocket.
 - Closely collaborated with the DevOps and infrastructure team to design scalable microservices architecture implementing CQRS, Orchestrator-based Saga, and Event Sourcing pattern.
 - Spearheaded the migration of microservices architecture to Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, and EKS using Terraform.
 - Developed GraphQL API services related Redis and Elasticsearch that acted as middleware between applications and existing services, resulting in increased system performance and efficiency.
@@ -31,7 +33,7 @@ Tech Lead – Full Stack | 04, 2022 - 04, 2023
 - Leveraged pair programming to increase code quality belongs to test-driven development, and it results in development speed.
 - Closely collaborated with the DevOps and infrastructure teams to deliver scalable solutions that resolved complex business issues, actively driving growth and success for the organization.
 
-Technologies: Express, TypeORM, JavaScript, Node, TypeScript, React, GraphQL, Relay, GoLang, Gin, gRPC, PostgreSQL, Redis, Elasticsearch, Nginx, Docker, Terraform, Jenkins, Sentry, Azure Virtual Machines, Azure Functions, Azure SQL Database.
+Technologies: Express, TypeORM, JavaScript, Node, TypeScript, React, GraphQL, Relay, Temporal, Rust, gRPC, PostgreSQL, MongoDB, Redis, Elasticsearch, Nginx, Docker, Terraform, Kubernetes, Jenkins, Sentry, Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, EKS.
 
 Giant Machines, New York, NY 10006
 Full Stack Engineer | 01, 2020 – 04, 2022
@@ -50,15 +52,14 @@ Technologies: Java, Spring, Spring Boot, Spring Cloud, RabbitMQ, Apache Kafka, G
 
 Giant Machines, New York, NY 10006
 Full Stack Engineer | 08, 2018 - 12, 2019
+
 - Designed and implemented microservices architecture for e-commerce platform using Spring Boot, Spring Cloud, and Spring GraphQL.
 - Developed and maintained new API endpoints using Java and Spring, and implemented front-end features using Angular to translate designs and wireframes into high quality code.
 - Leveraged Angular's powerful features to create a modular and scalable codebase for the e-commerce site, accommodating complex requirements such as product listings, shopping cart functionality, and secure payment processing.
 - Developed and maintained an API service for customer management using Spring MVC and JPA, implementing database schema and optimizing performance.
-- Updated authentication using OAuth and Spring Security.
 - Built a payment system using Stripe and Paypal third-party payment APIs, with the help of HttpClient for making HTTP requests and Gson for JSON serialization and deserialization.
-- Conducted thorough testing of the system using JUnit and Mockito to ensure it’s reliable, scalable, and met all requirements.
+- Conducted thorough testing of the both frontend and backend using Selenium, JUnit, and Mockito to ensure it’s reliable, scalable, and met all requirements.
 - Leveraged powerful technologies such as Redis and Spring Data Redis (SDR) to optimize system speed and efficiency and reduce latency, ultimately resulting in a 20% increase in system performance.
-- Reduced bug-related delays by automating both backend and frontend testing.
 - Managed GitHub repositories and permissions, including branching and tagging.
 - Established and maintained a close, interpersonal working relationship with suppliers.
 - Improved application performance by 20% by optimizing database queries and caching mechanisms.
@@ -67,6 +68,7 @@ Technologies: Java, Spring, Spring Boot, Spring MVC, OAuth, Spring Security, Pay
 
 InRhythm, New York, NY 10038
 Full Stack Software Developer | 08, 2016 - 04, 2018
+
 - Collaborated with cross-functional teams, including design and product teams, to implement new features, resolve bugs, and generate customer documentation.
 - Developed and maintained API endpoints using Express, adhering to industry best practices.
 - Successfully implemented OAuth-based authentication to enhance security and protect user privacy.
@@ -83,6 +85,7 @@ Technologies: JavaScript, Node, Express, GraphQL Apollo, OAuth, JWT, TypeORM, Mo
 
 InRhythm, New York, NY 10038
 Back End Developer | 08, 2014 – 08, 2016
+
 - Refactored existing codebase based on Flask into a modular structure with clear, well-enforced domain boundaries and a coherent public interface.
 - Participated in designing and building a system of a service-oriented architecture.
 - Worked to ship code for backend and dive deep into the database layer to handle complex querying needs leveraging SQLAlchemy.
@@ -96,6 +99,7 @@ Technologies: Python, Flask, SQLAlchemy, PyMongo, SQLite, PostgreSQL, MongoDB, N
 
 Clevertech, New York, NY 10105
 Software Developer Intern | 09, 2013 - 03, 2014
+
 - Translated business requirements into user interfaces, wireframes, and front-end components using HTML5, CSS3, and Bootstrap to deliver high-quality user experiences.
 - Built dynamic web pages using jQuery and AJAX to enhance interactivity and responsiveness of web applications.
 - Optimized code generation practices for specific expressions, such as list comprehensions, to reduce overall compilation times and improve efficiency of software development processes.
@@ -109,16 +113,15 @@ Bachelor of Computer Science - Software Engineering
 August 2011 - August 2014 | Rochester Institute of Technology
 
 KEY SKILLS
-HTML, CSS, JavaScript, PHP, Python	
+HTML, CSS, JavaScript, PHP, Python
 React, Next, GraphQL, Relay, Django
-Laravel, Ruby on Rails, WordPress	
+Laravel, Ruby on Rails, WordPress
 Redis, Memcached, Elasticsearch
-Mocha, Chai, Jest, Selenium, Cypress	
+Mocha, Chai, Jest, Selenium, Cypress
 RabbitMQ, Celery
-Docker, Kubernetes, Ansible	
+Docker, Kubernetes, Ansible
 Amazon ECS, EC2, RDS, Lambda, ECR
-MySQL, Oracle, MongoDB, PostgreSQL	
+MySQL, Oracle, MongoDB, PostgreSQL
 Jenkins, CircleCI
-Java, Spring, Spring Boot, Spring Cloud	
+Java, Spring, Spring Boot, Spring Cloud
 Sentry, Datadog
-

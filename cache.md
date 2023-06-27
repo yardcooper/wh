@@ -1,0 +1,13 @@
+- Developed RESTful API services related Redis and Elasticsearch that acted as middleware between applications and existing services, resulting in increased system performance and efficiency.
+- Developed a microservice using Golang to read large volumes of data from PostgreSQL database, improving data retrieval and processing times.
+- Designed and maintained Jenkins-based pipelines for automated code delivery, ensuring a consistent and reliable deployment process for mission-critical software applications.
+- Maintained and added new features to microservice environments using Golang, ensuring that systems were up-to-date and optimized for performance and functionality.
+- Actively managed and improved cloud infrastructure on Azure Virtual Machines, and Azure SQL Database reducing costs by 2% each month by eliminating unnecessary servers.
+- Generated $10,000 in revenue by developing and launching a new e-commerce.
+- Increased system performance by 15% using Azure Functions in data streaming.
+- Coordinated remote daily standups with the team to communicate project status and important announcements.
+- Spearheaded the migration to AWS and supervised the server configuration and application deployment.
+- Saved $5,000 annually by migrating to a cloud-based infrastructure as a DevOps Engineer.
+
+- Updated authentication using OAuth and Spring Security.
+- Reduced bug-related delays by automating both backend and frontend testing.

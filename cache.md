@@ -11,6 +11,7 @@
 
 - Updated authentication using OAuth and Spring Security.
 - Reduced bug-related delays by automating both backend and frontend testing.
+- Developed and maintained new API endpoints using Java and Spring, and implemented front-end features using Angular to translate designs and wireframes into high quality code.
 
 # 1.
 

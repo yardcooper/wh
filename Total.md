@@ -5,7 +5,7 @@ Plattsburgh, NY 12901
 talktorichard39@gmail.com
 
 PROFESSIONAL SUMMARY
-With 10 years of experience in web development and project management, I possess extensive knowledge and expertise as a highly skilled Full Stack Engineer. My background includes 7 years of hands-on experience supporting, automating, and optimizing deployments in AWS, utilizing configuration management, CI/CD, and DevOps processes to ensure efficient and effective cloud infrastructure management. As an active participant in the open-source community, I am committed to exploring new technologies and innovative solutions for complex software problems, constantly seeking to expand my knowledge and skills.
+Result and detail oriented full stack engineer with 10 years of experience covering project and product management including developing, implementing and supporting complex infrastructures. Experienced in designing and implementing highly scalable microservices architecture with trending web technologies supporting, automating, and optimizing deployments in AWS, utilizing configuration management, CI/CD, and DevOps processes to ensure efficient and effective cloud infrastructure management. As an active participant in the open-source community, I am committed to exploring new technologies and innovative solutions for complex software problems, constantly seeking to expand my knowledge and skills.
 
 CORE COMPETENCIES
 Programming languages
@@ -24,7 +24,8 @@ Boxed, Inc., New York, NY 10013
 Tech Lead – Full Stack | 04, 2022 - 04, 2023
 
 - Led and contributed to development of the e-commerce site in microservice architecture leveraging Node.js's flexibility and scalability.
-- Actively participated in daily standup meetings
+- Coordinated with the clients to unerstand their requirements and how they translate to new application feature.
+- Organized and attended weekly project meetings with other technical staff members, business owners, and SMEs.
 - Improved system reliability by customizing web services using Rust and Rocket, resulting in a 75% reduction in infrastructure costs.
 - Closely collaborated with the DevOps and infrastructure team to design scalable microservices architecture implementing CQRS, Orchestrator-based Saga, and Event Sourcing pattern.
 - Developed a machine learning data pipeline utilizing Python and Tensorflow in order to facilitate business operations.
@@ -45,11 +46,12 @@ Full Stack Engineer | 08, 2018 – 04, 2022
 - Conducted thorough testing of the both frontend and backend using Selenium, JUnit, and Mockito to ensure it’s reliable, scalable, and met all requirements.
 - Leveraged powerful technologies such as Redis and Spring Data Redis (SDR) to optimize system speed and efficiency and reduce latency, ultimately resulting in a 20% decrease in data retrieval time.
 - Customized Lambda functions integrated with 3rd party payment APIs and Amazon SNS, resulting in a significant reduction in operational costs.
-- Improved system performance by 30% through refactoring code to deliver asynchronous commnunication between microservices using Apache Kafka.
+- Improved system performance by 30% through refactoring code to deliver asynchronous communication between microservices using Apache Kafka.
 - Enhanced the Software Development Life Cycle (SDLC) by implementing an effective strategy for troubleshooting latency issues through the design and maintenance of an error-tracking system utilizing the Zipkin.
 - Automated CI/CD pipelines using Jenkins to reduce human errors and speed up production processes from 10+ days to 2 days.
 - Contributed to deployment of containerized applications to Amazon EKS writing Kubernetes deployment scripts.
 - Built stable and scalable environment on AWS customizing Terraform scripts resulting in 20% reduction in infrastructure cost.
+- Participated in all Scrum activities including sprint planning, creating user stories, and sprint retrospectives
 - Managed GitHub repositories and permissions, including branching and tagging.
 - Established and maintained a close, interpersonal working relationship with suppliers.
 
@@ -71,7 +73,7 @@ Full Stack Software Developer | 08, 2016 - 04, 2018
 - Successfully optimized multiple software applications, resulting in a 20% improvement in user-friendliness.
 - Improved application performance by 20% by optimizing database queries and caching mechanisms.
 
-Technologies: JavaScript, Node, Express, GraphQL Apollo, OAuth, JWT, TypeORM, Mongoose, Nginx, PM2, React, Webpack, MySQL, MongoDB, Redis, Cypress, Selenium, JIRA, Jenkins, Docker, Amazon RDS, DynamoDB, ElastiCache, ECS, Azure monitor.
+Technologies: JavaScript, Node.js, TypeScript, Express, GraphQL Apollo, OAuth, JWT, TypeORM, Mongoose, Nginx, PM2, React, Webpack, MySQL, MongoDB, Redis, Cypress, Selenium, JIRA, Jenkins, Docker, Amazon RDS, DynamoDB, ElastiCache, ECS, Azure monitor.
 
 InRhythm, New York, NY 10038
 Back End Developer | 08, 2014 – 08, 2016
@@ -103,15 +105,18 @@ Bachelor of Computer Science - Software Engineering
 August 2011 - August 2014 | Rochester Institute of Technology
 
 KEY SKILLS
-HTML, CSS, JavaScript, PHP, Python
-React, Next, GraphQL, Relay, Django
-Laravel, Ruby on Rails, WordPress
+JavaScript, Java, C++, Python, Go, Rust
+React, Next, Angular, Vue.js
+Express, Grunt, Gulp, PM2
+Java, Spring, Spring Boot
+Python, Flask, Django, FastAPI
+Cypress, Selenium
+Gin, Rocket
 Redis, Memcached, Elasticsearch
-Mocha, Chai, Jest, Selenium, Cypress
-RabbitMQ, Celery
-Docker, Kubernetes, Ansible
-Amazon ECS, EC2, RDS, Lambda, ECR
-MySQL, Oracle, MongoDB, PostgreSQL
-Jenkins, CircleCI
-Java, Spring, Spring Boot, Spring Cloud
+Apache Kafka, RabbitMQ
+PostgreSQL, MySQL, Sqlite, Oracle
+MongoDB, Apache Cassandra, Leo4j
 Sentry, Datadog
+Docker, Kubernetes, Ansible
+GitHub actions, Jenkins, CircleCI
+Amazon Lambda, EKS, ECS, EC2, RDS, ECR

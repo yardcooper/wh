@@ -35,3 +35,15 @@ Blazor is a component-based, single-page app framework for building client-side 
 # Get started
 
 `dotnet new `
+
+developed application in agile model and involved in daily scrum meetings
+
+communicated with the technology managers to determine application requirements and designed the same accordingly
+organized and attented weekly project meetings with other technical staff members, business owners, and SMEs
+
+participated in all Scrum acitivities including sprint planning, creating user stories, and sprint retrospectives
+
+built and maintained efficient, reusable, and reliable code via .NET language & maintained code quality
+
+Devised and implemented a Dynamics CRM solution for 47 call centers using ASP.NET framework with 99%+ uptime.
+Completed

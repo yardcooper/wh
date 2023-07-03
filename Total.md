@@ -26,15 +26,15 @@ Tech Lead – Full Stack | 04, 2022 - 04, 2023
 - Led and contributed to development of the e-commerce site in microservice architecture leveraging Node.js's flexibility and scalability.
 - Coordinated with the clients to unerstand their requirements and how they translate to new application feature.
 - Organized and attended weekly project meetings with other technical staff members, business owners, and SMEs.
+- Developed GraphQL API services related Redis and Elasticsearch that acted as middleware between applications and existing services, resulting in increased system performance and efficiency.
 - Improved system reliability by customizing web services using Rust and Rocket, resulting in a 75% reduction in infrastructure costs.
 - Closely collaborated with the DevOps and infrastructure team to design scalable microservices architecture implementing CQRS, Orchestrator-based Saga, and Event Sourcing pattern.
 - Developed a machine learning data pipeline utilizing Python and Tensorflow in order to facilitate business operations.
-- Spearheaded the migration of microservices architecture to Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, and EKS using Terraform.
-- Developed GraphQL API services related Redis and Elasticsearch that acted as middleware between applications and existing services, resulting in increased system performance and efficiency.
-- Maintained data consistency implementing Orchestrator-based Saga pattern using Temporal.
+- Maintained data consistency implementing Orchestrator-based Saga pattern using Temporal and gRPC.
 - Refactored existing code base to implementing event-sourcing pattern using Apache Kafka.
 - Developed documentation and procedures to allow other teams to implement services faster and autonomously.
 - Leveraged pair programming to increase code quality belongs to test-driven development, and it results in development speed.
+- Spearheaded the migration of microservices architecture to Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, and EKS using Terraform.
 
 Technologies: Express, TypeORM, JavaScript, Node.js, TypeScript, React, GraphQL, Relay, Temporal, Rust, gRPC, PostgreSQL, MongoDB, Redis, Elasticsearch, Nginx, Docker, Terraform, Kubernetes, Jenkins, DataDog, Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, EKS.
 
@@ -46,7 +46,8 @@ Full Stack Engineer | 08, 2018 – 04, 2022
 - Conducted thorough testing of the both frontend and backend using Selenium, JUnit, and Mockito to ensure it’s reliable, scalable, and met all requirements.
 - Leveraged powerful technologies such as Redis and Spring Data Redis (SDR) to optimize system speed and efficiency and reduce latency, ultimately resulting in a 20% decrease in data retrieval time.
 - Customized Lambda functions integrated with 3rd party payment APIs and Amazon SNS, resulting in a significant reduction in operational costs.
-- Improved system performance by 30% through refactoring code to deliver asynchronous communication between microservices using Apache Kafka.
+- Improved system performance by 30% through migrating Apache Kafka to Apache Pulsar as a message broker to deliver asynchronous communication between microservices.
+- Collaborated with data engineering team to develop product recommendation system to increase onsite engagement leveraging Kibana, and Grafana.
 - Enhanced the Software Development Life Cycle (SDLC) by implementing an effective strategy for troubleshooting latency issues through the design and maintenance of an error-tracking system utilizing the Zipkin.
 - Automated CI/CD pipelines using Jenkins to reduce human errors and speed up production processes from 10+ days to 2 days.
 - Contributed to deployment of containerized applications to Amazon EKS writing Kubernetes deployment scripts.
@@ -55,10 +56,10 @@ Full Stack Engineer | 08, 2018 – 04, 2022
 - Managed GitHub repositories and permissions, including branching and tagging.
 - Established and maintained a close, interpersonal working relationship with suppliers.
 
-Technologies: Java, Spring, Spring Boot, Spring Cloud, Maven, OAuth, RabbitMQ, Apache Kafka, GraphQL, JavaScript, Node.js, TypeScript, Angular, PostgreSQL, Payment third-party API, Oracle, Elasticsearch, Redis, Nginx, Docker, Kubernetes, Jenkins, Zipkin, Terraform, AWS Lambda, RDS, Kinesis, SNS, SQS, RDS, DynamoDB, ElastiCache.
+Technologies: Java, Spring, Spring Boot, Spring Cloud, Maven, OAuth, RabbitMQ, Apache Kafka, Apache Pulsar, GraphQL, JavaScript, Node.js, TypeScript, Angular, PostgreSQL, Payment third-party API, Oracle, Elasticsearch, Kibana, Grafana, Redis, Nginx, Docker, Kubernetes, Jenkins, Zipkin, Terraform, AWS Lambda, RDS, Kinesis, SNS, SQS, RDS, DynamoDB, ElastiCache.
 
 InRhythm, New York, NY 10038
-Full Stack Software Developer | 08, 2016 - 04, 2018
+Full Stack Software Developer | 08, 2016 - 08, 2018
 
 - Collaborated with cross-functional teams, including design and product teams, to implement new features, resolve bugs, and generate customer documentation.
 - Developed and maintained API endpoints using Express, adhering to industry best practices.
@@ -117,6 +118,6 @@ Apache Kafka, RabbitMQ
 PostgreSQL, MySQL, Sqlite, Oracle
 MongoDB, Apache Cassandra, Leo4j
 Sentry, Datadog
-Docker, Kubernetes, Ansible
+Docker, Kubernetes
 GitHub actions, Jenkins, CircleCI
 Amazon Lambda, EKS, ECS, EC2, RDS, ECR

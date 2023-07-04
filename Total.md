@@ -36,7 +36,7 @@ Tech Lead – Full Stack | 04, 2022 - 04, 2023
 - Leveraged pair programming to increase code quality belongs to test-driven development, and it results in development speed.
 - Spearheaded the migration of microservices architecture to Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, and EKS using Terraform.
 
-Technologies: Express, TypeORM, JavaScript, Node.js, TypeScript, React, GraphQL, Relay, Temporal, Rust, gRPC, PostgreSQL, MongoDB, Redis, Elasticsearch, Nginx, Docker, Terraform, Kubernetes, Jenkins, DataDog, Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, EKS.
+Technologies: Express, TypeORM, JavaScript, Node.js, TypeScript, React, Angular, GraphQL, Relay, Temporal, Rust, gRPC, PostgreSQL, MongoDB, Redis, Elasticsearch, Nginx, Docker, Terraform, Kubernetes, Jenkins, DataDog, Amazon API Gateway, AWS Lambda, S3, RDS, DynamoDB, EKS.
 
 Giant Machines, New York, NY 10006
 Full Stack Engineer | 08, 2018 – 04, 2022
@@ -59,7 +59,7 @@ Full Stack Engineer | 08, 2018 – 04, 2022
 Technologies: Java, Spring, Spring Boot, Spring Cloud, Maven, OAuth, RabbitMQ, Apache Kafka, Apache Pulsar, GraphQL, JavaScript, Node.js, TypeScript, Angular, PostgreSQL, Payment third-party API, Oracle, Elasticsearch, Kibana, Grafana, Redis, Nginx, Docker, Kubernetes, Jenkins, Zipkin, Terraform, AWS Lambda, RDS, Kinesis, SNS, SQS, RDS, DynamoDB, ElastiCache.
 
 InRhythm, New York, NY 10038
-Full Stack Software Developer | 08, 2016 - 08, 2018
+Full Stack Software Developer | 08, 2014 - 08, 2018
 
 - Collaborated with cross-functional teams, including design and product teams, to implement new features, resolve bugs, and generate customer documentation.
 - Developed and maintained API endpoints using Express, adhering to industry best practices.
@@ -77,18 +77,22 @@ Full Stack Software Developer | 08, 2016 - 08, 2018
 Technologies: JavaScript, Node.js, TypeScript, Express, GraphQL Apollo, OAuth, JWT, TypeORM, Mongoose, Nginx, PM2, React, Webpack, MySQL, MongoDB, Redis, Cypress, Selenium, JIRA, Jenkins, Docker, Amazon RDS, DynamoDB, ElastiCache, ECS, Azure monitor.
 
 InRhythm, New York, NY 10038
-Back End Developer | 08, 2014 – 08, 2016
+.NET Developer | 08, 2014 – 08, 2016
 
-- Refactored existing codebase based on Flask into a modular structure with clear, well-enforced domain boundaries and a coherent public interface.
-- Participated in designing and building a system of a service-oriented architecture.
-- Worked to ship code for backend and dive deep into the database layer to handle complex querying needs leveraging SQLAlchemy.
-- Successfully removed bugs and improved performance, resulting in a 50% increase in efficiency compared to the previous version.
-- Built a high-performance application capable of handling heavy traffic by customizing Nginx and uWSGI for efficient request handling and response times.
-- Developed a robust database layer using PyMongo, providing an effective abstraction layer and implementing system logging for better tracking and monitoring of data.
-- Reduced human error and improved the development process by writing test cases using the unittest framework and following the Test-Driven Development (TDD) methodology.
-- Constructed system control CLI command lines using Cobra, enabling effective command-line interface (CLI) interaction and control of the application.
+- Delveloped, and maintained a variety of web applications, services, databases and data integrations for the gift management platform.
+- Customized gift management system using C# and ASP.NET, enabling customers to purchase and send gifts to friends and family; improved customer engagement and satisfaction.
+- Analyzed user specifications and requirements that reflect business program needs, and subsequently delivered high-quality software solutions.
+- Integrated the gift management system with third-party PayPal API to deliver secure online payments.
+- Collaborated with developers, project managers, business analysts and business users in conceptualizing, estimating and developing new software applications and enhancements.
+- Optimized the performance of the gift management system using SQL Server, improving database queries and reducing page load times by 30%.
+- Developed a custom notification system using SignalR, which notified customers in real-time when their gift orders were processed and shipped, improving the customer experience.
+- Integrated the gift management system with the site's social media channels using the Facebook and Twitter APIs, enabling customers to share their gift purchases and increasing brand awareness.
+- Contributed in Agile development plans, including scoping, designing, providing time estimates for programming tasks and implementation plans.
+- Collaborated with the QA team to define test cases, metrics, and resolve questions about test results.
+- Developed technical documentation to define the system components, development environment and implementation planning/strategies.
+- Customized the gift management system to allow for bulk gift purchases using the Telerik UI for ASP.NET AJAX, enabling corporate clients to purchase large quantities of gifts for employees and clients.
 
-Technologies: Python, Flask, SQLAlchemy, PyMongo, SQLite, PostgreSQL, MongoDB, Nginx, uWSGI, Pytest, TDD, REST, API, Reverse Proxy, CLI, Cobra.
+Technologies: .NET, C#, ASP.NET, ASP.NET MVC, SQL Server, jQuery, HTML5, JavaScript, BootStrap, NUnit, XUnit, Azure.
 
 Clevertech, New York, NY 10105
 Software Developer Intern | 09, 2013 - 03, 2014
@@ -99,7 +103,7 @@ Software Developer Intern | 09, 2013 - 03, 2014
 - Contributed to significant gains in speed and productivity of the team, resulting in a more successful product.
 - Trained over 50 individuals in handling software development cycles and induction processes, ensuring that team members are equipped with the necessary skills and knowledge to deliver high-quality software solutions.
 
-Technologies: HTML5, CSS3, Bootstrap, AJAX, jQuery, JSON, WordPress
+Technologies: HTML5, CSS3, Bootstrap, AJAX, jQuery, JSON, WordPress.
 
 EDUCATION
 Bachelor of Computer Science - Software Engineering

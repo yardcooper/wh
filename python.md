@@ -1,0 +1,8 @@
+- Refactored existing codebase based on Flask into a modular structure with clear, well-enforced domain boundaries and a coherent public interface.
+- Participated in designing and building a system of a service-oriented architecture.
+- Worked to ship code for backend and dive deep into the database layer to handle complex querying needs leveraging SQLAlchemy.
+- Successfully removed bugs and improved performance, resulting in a 50% increase in efficiency compared to the previous version.
+- Built a high-performance application capable of handling heavy traffic by customizing Nginx and uWSGI for efficient request handling and response times.
+- Developed a robust database layer using PyMongo, providing an effective abstraction layer and implementing system logging for better tracking and monitoring of data.
+- Reduced human error and improved the development process by writing test cases using the unittest framework and following the Test-Driven Development (TDD) methodology.
+- Constructed system control CLI command lines using Cobra, enabling effective command-line interface (CLI) interaction and control of the application.

@@ -1,0 +1,10 @@
+- Designed and implemented microservices architecture for e-commerce site using Spring Boot, Spring Cloud, and Spring GraphQL.
+- Leveraged Angular's powerful features to create a modular and scalable codebase for the e-commerce site, accommodating complex requirements such as product listings, shopping cart functionality, and secure payment processing.
+- Conducted thorough testing of the both frontend and backend using Selenium, JUnit, and Mockito to ensure it’s reliable, scalable, and met all Requirements Analysis.
+- Leveraged powerful technologies such as Redis and Spring Data Redis (SDR) to optimize system speed and efficiency and reduce latency, ultimately decreasing data retrieval time by 20%.
+- Customized Lambda functions integrated with 3rd party payment APIs and Amazon SNS, resulting in a significant reduction in operational costs.
+- Enhanced the Software Development Life Cycle (SDLC) by implementing an effective strategy for troubleshooting latency issues through the design and maintenance of an error-tracking system utilizing the Zipkin.
+- Automated CI/CD pipelines using Jenkins to reduce human errors and speed up production processes from 10+ days to 2 days.
+- Participated in all Scrum activities including sprint planning, creating user stories, and sprint retrospectives
+- Managed GitHub repositories with clear, concise commit messages to understand the project history including branching and tagging.
+- Established and maintained a close, interpersonal working relationship with suppliers leveraging communication and negotiation skills.

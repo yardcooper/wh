@@ -1,3 +1,74 @@
+Core Java API (Collection framework, Stream, Java Lang Package, Java Util Package, Java Time Package, Java IO Package, Java net Package, Java SQL Package)
+Design patterns (Builder, factory, proxy, adaptor, facade, observer design patterns)with examples.
+SOLID Design principles with their practical use in coding.
+Read Clean code and clean coder of uncle bob which added clean coding habits (fewer WTFs in my Code reviews after that :))
+Spring Framework, Hibernate framework, and JPA in depth
+A unit testing framework that I have learned was, J-UNIT, MOCKITO, and POWER MOCK. which helped to clear the code coverage criteria in my pipeline.
+
+## resume works
+
+### summary
+
+- Proficiency in C# and years of experience in Scala, Java and basic python while remaining agnostic to fit the job role.
+- Leading and manage a team of developers, providing guidance, mentorship to junior developers in distributed software risk applications in both functional and non-functional requirements.
+- Experience in working with Streaming technologies, patterns like multi-threading, parallel and async programming.
+
+### work history
+
+- Worked on implementing Features on the project with special emphasis on Test driven development and documentation. Consistenly maintained code coverage of 90 percent.
+- Resolved Customer issues within defined SLAs. The average SLA for resolution of customer issues was 99 percent.
+
+- Designed and developed microservices based application for Deployment of E-commerce site.
+- Worked on performance improvement of the Customer facing application and decreased response time by 70%.
+- Reworked the API of the application to conform to REST patterns and enforced TDD with 90% coverage.
+
+- Led a team of developers and designed microservices based application for Audit team.
+- Worked on developing tools for three pillars of Concur Expense Management - Implementation, Audit, and Customer Support.
+- Developed client libraries for external developer APIs
+
+- Developed utility tools for quickly resolving Customer Issues including developing a Machine Learning Pipeline to classify tickets
+
+- Involved in design and implementation of Ruby on Rails solutions for Retail Project.
+- Involved in implementation of web based solution for Credit Card Firm. The web based solution was implemented using Java Web Stack based on Struts framework.
+
+- Driving the technology vision while being a go-to person for technical challenges from business and technical stackholders.
+- Responsible for aligning business requirements to strategic technical roadmaps using PaaS and SaaS offerings.
+- Document procedures and architecture models using C4 Models to represent infrastructure architecture, Component design and interaction patterns.
+
+- Empowered the team by collaborating, challenging technical decisions and with being a go-to person for trade offs and ambiguity resolutions.
+- Established a collaborative working environment and methodologies across multiple teams which allowed us to establish a trusted relationship with cross teams.
+- Staff development including mentoring new team members and performance review of permanent employees in the team
+- This high-level architecture and design initially were based on IaaS offering of Azure but also was forecasted for PaaS. This involved using Lambda functions, Azure files storages, Blob storages and assisted in NSGs for multiple tiers of the architecture.
+
+- Key member of team size 3 involved in continual technical analysis and development including Prototyping various options and constant technical research and investigations.
+
+#### C#.NET
+
+- Continous development of GDI new batches, upgrades of QL, fixing bugs in GDI workflows, creating multiple persistence layers, integration with hazelcast for cloud migration preparation.
+- Integrated with Apache Kafka for data ingestion using Kerberos Authentication.
+- Involved in continual liaisons and decision making with inter dependent teams and traders to strategize and commit to successful deliverables on a N tier Trading platform.
+
+  - Continually help cross teams with implementation and usage of our framework like Kerberos authentication on cross domain set up from .NET
+
+- Designed and developed a loosely coupled multi-threaded UI Framework using WPF, Prism, MEF based on MVVM and interface driven Programming. Views and View models were coupled using MEF, and so were the business objects which bound to UI.
+- Prototyped complex pieces of code snippets to facilitate stability and maintenance of the application.
+- Redesigned the UI using SliverLight 5.0, Prism & RIA services
+- Led a team of 5, invested time to lay basic foundation of business objects using WCF services, Episerver custom Plug-ins allowing the team to rapidly build the application
+- Developed a prototype of testability framework using MSAA and MSUIA along with another team member, manual testing unable to cope with monthly release; bespoke test framework had to be developed
+- Enhancement of a framework in C#.NET for automated testing on a proprietary Medical platform. Assemblies and services using WCF and multithreading
+
+### Skills
+
+- Programming Languages: Java, Python, JavaScript
+- Databases:
+- Frameworks:
+- Devops Technologies:
+- Operating Systems:
+- Cloud Technologies:
+- Data Structure and Algorithms:
+
+##
+
 - Developed RESTful API services related Redis and Elasticsearch that acted as middleware between applications and existing services, resulting in increased system performance and efficiency.
 - Developed a microservice using Golang to read large volumes of data from PostgreSQL database, improving data retrieval and processing times.
 - Designed and maintained Jenkins-based pipelines for automated code delivery, ensuring a consistent and reliable deployment process for mission-critical software applications.
